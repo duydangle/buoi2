@@ -12,4 +12,4 @@ const Hello = () => {
         </span>
     );
 };
-export default Hello; 
+export default Hello; // Xuất component để có thể sử dụng ở nơi khác
